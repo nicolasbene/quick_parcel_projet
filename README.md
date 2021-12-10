@@ -1,3 +1,8 @@
+On experimente le nouveau repo de ben code 
+npm install et run start ok 
+prochaine etape comprendre le build et scss
+
+
 # Introduction
 This is the a quick starter project made and used by Benjamin Code to quickly experiment stuffs when he's trying to replicate cool effects he sees on the web.
 
