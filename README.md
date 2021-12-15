@@ -1,4 +1,4 @@
-On experimente le nouveau repo de ben code 
+On experimente le nouveau repo
 npm install et run start ok 
 prochaine etape comprendre le build et scss
 
@@ -37,9 +37,6 @@ You must install codesandbox command line on your computer. Then add this alias 
 alias share_code='rm -rf dist .cache && codesandbox ./'
 ```
 
-# Benjamin Code
-
-It's also the project he uses for his Twitch livestreams.
 
 A real project was made with this quick starter:
 
